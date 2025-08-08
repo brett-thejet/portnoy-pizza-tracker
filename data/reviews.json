@@ -1,0 +1,20 @@
+[
+  {
+    "date": "2024-09-12",
+    "place": "Joe's Pizza",
+    "city": "NYC",
+    "score": 8.4
+  },
+  {
+    "date": "2024-11-02",
+    "place": "Sally's Apizza",
+    "city": "New Haven",
+    "score": 9.1
+  },
+  {
+    "date": "2025-03-18",
+    "place": "Satchel's",
+    "city": "Gainesville",
+    "score": 7.9
+  }
+]
